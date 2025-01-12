@@ -1,0 +1,6 @@
+{
+    "login": "auth/login",
+    "forgotPassword": "auth/reset-password",
+    "updatePassword": "auth/update-password",
+    "register": "auth/register"
+}
